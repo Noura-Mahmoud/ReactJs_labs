@@ -1,4 +1,11 @@
 # ReactJs_labs
+open cmd
+  ```
+  npm i
+  ```
+  ```
+  npm start
+  ```
 
 ## Lab 5
 
